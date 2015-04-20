@@ -1,0 +1,6 @@
+The Sequence folder contains all the files for which want the sequences. 
+
+Just change the name of input file in the code as per requirement. 
+
+The output is written into the file prefix_file.txt and suffix_file.txt
+
